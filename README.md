@@ -1,8 +1,7 @@
-
-
-
-
 # ETL ANIME DATABASE
+
+![Imange](https://raw.githubusercontent.com/Robie94/ETLANIME/main/image.png)
+
 ETL Project
 
 This document contains guidelines, requirements, and suggestions for ETL-Project using Anime data.
