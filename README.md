@@ -1,3 +1,7 @@
+![image.pptx](image.pptx)
+
+
+
 # ETL ANIME DATABASE
 ETL Project
 
