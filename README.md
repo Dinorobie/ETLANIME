@@ -1,4 +1,4 @@
-# ETLANIME
+# ETL ANIME DATABASE
 ETL Project
 
 This document contains guidelines, requirements, and suggestions for ETL-Project using Anime data.
